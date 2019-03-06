@@ -1,0 +1,2 @@
+# svgs
+svg for self
